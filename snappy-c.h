@@ -39,6 +39,8 @@
 #else
 #define SNAPPY_API
 #endif
+#else
+#define SNAPPY_API
 #endif
 
 #ifdef __cplusplus
